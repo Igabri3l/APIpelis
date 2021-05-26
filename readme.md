@@ -10,9 +10,10 @@ APipelis es una api que recibe datos de peliculas y personajes. los ordena y fil
 ***
 
 ## Instrucciones de Instalación
-1. [Instalá Steamcito en tu navegador](https://www.steamcito.com.ar)
-2. ¡Listo! Ya podés entrar a la tienda de Steam desde tu navegador y Steamcito estará funcionando.
-3. Opcionalmente podés personalizar los impuestos y otras opciones desde el mate que se encuentra arriba a la derecha en la tienda de Steam
+1. instalar las dependencias con npm install
+2. completar los datos en example.env
+3. cambiar el nombre del archivo .example.env a .env
+4. ejecurar npm run dev
 
 ***
 
